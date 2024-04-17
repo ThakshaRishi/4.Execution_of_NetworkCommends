@@ -28,5 +28,13 @@ This commands includes
 
 ## Output
 
+PING Command:
+
+![image](https://github.com/ThakshaRishi/4.Execution_of_NetworkCommends/assets/144870423/59fd9d63-dc2b-44f2-b699-879386faa742)
+
+TRACEROUTE Command:
+
+![image](https://github.com/ThakshaRishi/4.Execution_of_NetworkCommends/assets/144870423/076452f1-3ecf-4326-869b-944a8be9bcae)
+
 ## Result
 Thus Execution of Network commands Performed 
